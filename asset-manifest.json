@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Graphs-Task/static/css/main.0177a9e8.css",
+    "main.js": "/React-Graphs-Task/static/js/main.8204fce7.js",
+    "index.html": "/React-Graphs-Task/index.html",
+    "main.0177a9e8.css.map": "/React-Graphs-Task/static/css/main.0177a9e8.css.map",
+    "main.8204fce7.js.map": "/React-Graphs-Task/static/js/main.8204fce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0177a9e8.css",
+    "static/js/main.8204fce7.js"
+  ]
+}
