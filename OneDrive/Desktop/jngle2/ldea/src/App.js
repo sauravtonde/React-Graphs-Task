@@ -19,7 +19,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const result = await axios.get('/data.json');
+const result = await axios.get(process.env.PUBLIC_URL + '/data.json');
         const data = result.data;
 
         if (!Array.isArray(data)) {
